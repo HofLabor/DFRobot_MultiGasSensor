@@ -12,7 +12,7 @@
 #define __DFRobot_GAS_H__
 
 #include "Arduino.h"
-#include <Wire.h>
+#include "Wire.h"
 
 
 
